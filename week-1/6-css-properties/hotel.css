@@ -1,0 +1,15 @@
+section {
+  width: 400px;
+  height: 300px;
+  border: 1px solid gray;
+}
+article {
+  width: 100pxpx;
+  height: 60px;
+  border: 1px solid gray;
+}
+aside {
+  width: 50px;
+  height: 40px;
+  border: 1px solid gray;
+}
