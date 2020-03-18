@@ -10,7 +10,6 @@
   font-size: 12px;
   text-align: center;
 }
-.message: last-child {
+.message:last-child {
   box-shadow: 4px 4px 0 #dba944;
-  border-radius: 20px;
 }
