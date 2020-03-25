@@ -1,1 +1,7 @@
-/* Add your CSS below */
+/* Add your CSS below*/
+
+.hide_label {
+  clip: rect(1px, 1px, 1px, 1px);
+  position: absolute !important;
+  left: -2000px;
+}
